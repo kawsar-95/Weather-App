@@ -8,7 +8,7 @@ body {
   font-family: "Bree Serif", serif;
   background-image: url("bg.png");
   background-size: cover;
-  background-position: top center;
+  background-position: auto;
 }
 
 .app-wrap {
@@ -36,7 +36,7 @@ header input {
   border: none;
   outline: none;
   background-color: rgba(255, 255, 255, 0.3);
-  border-radius: 16px 0px 16px 0px;
+  border-radius: 15px 10px 15px 10px;
   border-bottom: 3px solid #df8e00;
 
   color: #313131;
